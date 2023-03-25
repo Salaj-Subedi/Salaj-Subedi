@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salaj-Subedi
-- 👀 I’m interested in programming and database
-- 🌱 I’m currently learning BSc Computing (hons)
-- 💞️ I’m open to opportunities to enhance my skill on Front-End and Back-End along with DBMS
+- 👀 I’m interested in programming 
+- 🌱 I’m currently studying BSc Computing (hons)
+- 💞️ I’m skillfull in Flutter - Nodejs - MongoDB Stack for mobile and web development 
 - 📫 How to reach me salajsubedi11@gmail.com , https://www.instagram.com/_salaj11_/ 
 
 <!---
