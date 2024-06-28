@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Salaj-Subedi
 - 👀 I’m interested in programming 
-- 🌱 I’m currently studying BSc Computing (hons)
+- 🌱 I’m an Hons. Degree Graduate in BSc.Computing
 - 💞 I’m skillfull in Flutter - Nodejs - MongoDB Stack for mobile and web development along with ASP.NET programming 
 - 📫 How to reach me salajsubedi11@gmail.com , https://www.instagram.com/_salaj11_/ 
 
